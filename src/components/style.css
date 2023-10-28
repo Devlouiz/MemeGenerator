@@ -33,6 +33,8 @@
     text-align: center;
 }
 .inputtext{
+    width: 80%;
+    margin: auto;
     display: flex;
     justify-content: space-around;
     justify-items: center;

@@ -6,7 +6,7 @@ import "./components/style.css"
 
 const App = () => {
   return (
-    <div>
+    <div className='memeApp'>
       <Navba/>
       <Meme/>
     </div>

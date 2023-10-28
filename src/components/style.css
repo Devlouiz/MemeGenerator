@@ -34,7 +34,7 @@
 }
 .inputtext{
     width: 80%;
-    margin: 0 auto;
+    margin: auto 0;
     display: flex;
     justify-content: space-around;
     justify-items: center;
